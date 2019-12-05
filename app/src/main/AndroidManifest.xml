@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.JobTain">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/app_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.JobTain.JobList"></activity>
+        <activity android:name="com.example.JobTain.JobActivity" />
+        <activity android:name="com.example.JobTain.AddJobPost" />
+        <activity android:name="com.example.JobTain.CompanyRegistration" />
+        <activity android:name="com.example.JobTain.StudentRegistrationActivity" />
+        <activity android:name="com.example.JobTain.PersonalActivity" />
+        <activity android:name="com.example.JobTain.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.JobTain.Company_display_items" />
+        <activity android:name="com.example.JobTain.Resume_preview" />
+        <activity android:name="com.example.JobTain.Student_main_screen" />
+        <activity android:name="com.example.JobTain.educational_info" />
+        <activity android:name="com.example.JobTain.personal_info" />
+        <activity android:name="com.example.JobTain.Listview" />
+        <activity
+            android:name="com.example.JobTain.company_content"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name="com.example.JobTain.student_content" />
+        <activity android:name="com.example.JobTain.company_login" />
+        <activity android:name="com.example.JobTain.student_login" />
+        <activity android:name="com.example.JobTain.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

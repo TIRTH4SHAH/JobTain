@@ -1,0 +1,204 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.interviewair"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CALL_PHONE" />
+11-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:5:5-69
+11-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:5:22-66
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.firebase:firebase-database:16.0.4] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d3830890e32a69d12c53208548ef09a1/jetified-firebase-database-16.0.4/AndroidManifest.xml:22:5-79
+12-->[com.google.firebase:firebase-database:16.0.4] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d3830890e32a69d12c53208548ef09a1/jetified-firebase-database-16.0.4/AndroidManifest.xml:22:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->[com.google.firebase:firebase-database:16.0.4] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d3830890e32a69d12c53208548ef09a1/jetified-firebase-database-16.0.4/AndroidManifest.xml:23:5-67
+13-->[com.google.firebase:firebase-database:16.0.4] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d3830890e32a69d12c53208548ef09a1/jetified-firebase-database-16.0.4/AndroidManifest.xml:23:22-64
+14
+15    <application
+15-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:7:5-48:19
+16        android:allowBackup="true"
+16-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:8:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/241b89e013db22b59a4d22b3f2fa0913/core-1.0.1/AndroidManifest.xml:22:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/app_logo"
+19-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:9:9-40
+20        android:label="@string/app_name"
+20-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:10:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:11:9-54
+22        android:supportsRtl="true"
+22-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:12:9-35
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:13:9-40
+25        <activity android:name="com.example.JobTain.JobList" />
+25-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:14:9-73
+25-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:14:19-61
+26        <activity android:name="com.example.JobTain.JobActivity" />
+26-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:15:9-68
+26-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:15:19-65
+27        <activity android:name="com.example.JobTain.AddJobPost" />
+27-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:16:9-67
+27-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:16:19-64
+28        <activity android:name="com.example.JobTain.CompanyRegistration" />
+28-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:17:9-76
+28-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:17:19-73
+29        <activity android:name="com.example.JobTain.StudentRegistrationActivity" />
+29-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:18:9-84
+29-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:18:19-81
+30        <activity android:name="com.example.JobTain.PersonalActivity" />
+30-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:19:9-73
+30-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:19:19-70
+31        <activity android:name="com.example.JobTain.SplashActivity" >
+31-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:20:9-26:20
+31-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:20:19-68
+32            <intent-filter>
+32-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:21:13-25:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:22:17-69
+33-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:22:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:24:17-77
+35-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:24:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity android:name="com.example.JobTain.Company_display_items" />
+38-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:27:9-78
+38-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:27:19-75
+39        <activity android:name="com.example.JobTain.Resume_preview" />
+39-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:28:9-71
+39-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:28:19-68
+40        <activity android:name="com.example.JobTain.Student_main_screen" />
+40-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:29:9-76
+40-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:29:19-73
+41        <activity android:name="com.example.JobTain.educational_info" />
+41-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:30:9-73
+41-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:30:19-70
+42        <activity android:name="com.example.JobTain.personal_info" />
+42-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:31:9-70
+42-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:31:19-67
+43        <activity android:name="com.example.JobTain.Listview" />
+43-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:32:9-65
+43-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:32:19-62
+44        <activity
+44-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:33:9-35:57
+45            android:name="com.example.JobTain.company_content"
+45-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:34:13-63
+46            android:windowSoftInputMode="stateHidden" />
+46-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:35:13-54
+47        <activity android:name="com.example.JobTain.student_content" />
+47-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:36:9-72
+47-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:36:19-69
+48        <activity android:name="com.example.JobTain.company_login" />
+48-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:37:9-70
+48-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:37:19-67
+49        <activity android:name="com.example.JobTain.student_login" />
+49-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:38:9-70
+49-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:38:19-67
+50        <activity android:name="com.example.JobTain.MainActivity" >
+50-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:39:9-43:20
+50-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:39:19-66
+51            <intent-filter>
+51-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:40:13-42:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:22:17-69
+52-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:22:25-66
+53            </intent-filter>
+54        </activity>
+55
+56        <meta-data
+56-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:45:9-47:57
+57            android:name="preloaded_fonts"
+57-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:46:13-43
+58            android:resource="@array/preloaded_fonts" />
+58-->/Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:47:13-54
+59
+60        <activity
+60-->[com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
+61            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+61-->[com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
+62            android:excludeFromRecents="true"
+62-->[com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
+63            android:exported="true"
+63-->[com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
+64            android:launchMode="singleTask"
+64-->[com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
+65            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+65-->[com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
+66            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+66-->[com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
+67
+68        <service
+68-->[com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
+69            android:name="com.google.firebase.components.ComponentDiscoveryService"
+69-->[com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
+70            android:exported="false" >
+70-->[com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
+71            <meta-data
+71-->[com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
+72                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+72-->[com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
+73                android:value="com.google.firebase.components.ComponentRegistrar" />
+73-->[com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
+74        </service>
+75
+76        <activity
+76-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+77            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+77-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+78            android:excludeFromRecents="true"
+78-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+79            android:exported="false"
+79-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+80            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+80-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+81        <!--
+82            Service handling Google Sign-In user revocation. For apps that do not integrate with
+83            Google Sign-In, this service will never be started.
+84        -->
+85        <service
+85-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+86            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+86-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+87            android:exported="true"
+87-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+88            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+88-->[com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+89
+90        <activity
+90-->[com.google.android.gms:play-services-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/951b5e7f354daaaf8db57d3e12181016/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+91            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+91-->[com.google.android.gms:play-services-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/951b5e7f354daaaf8db57d3e12181016/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+92            android:exported="false"
+92-->[com.google.android.gms:play-services-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/951b5e7f354daaaf8db57d3e12181016/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+93            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+93-->[com.google.android.gms:play-services-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/951b5e7f354daaaf8db57d3e12181016/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+94
+95        <provider
+95-->[com.google.firebase:firebase-common:16.0.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e9643323649ad235d2f2b3b3b69fe5e3/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+96            android:name="com.google.firebase.provider.FirebaseInitProvider"
+96-->[com.google.firebase:firebase-common:16.0.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e9643323649ad235d2f2b3b3b69fe5e3/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77
+97            android:authorities="com.example.interviewair.firebaseinitprovider"
+97-->[com.google.firebase:firebase-common:16.0.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e9643323649ad235d2f2b3b3b69fe5e3/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+98            android:exported="false"
+98-->[com.google.firebase:firebase-common:16.0.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e9643323649ad235d2f2b3b3b69fe5e3/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+99            android:initOrder="100" />
+99-->[com.google.firebase:firebase-common:16.0.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e9643323649ad235d2f2b3b3b69fe5e3/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+100
+101        <meta-data
+101-->[com.google.android.gms:play-services-basement:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/b4c3a4a2fbb45dc4d92e6b14510d5a84/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+102            android:name="com.google.android.gms.version"
+102-->[com.google.android.gms:play-services-basement:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/b4c3a4a2fbb45dc4d92e6b14510d5a84/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+103            android:value="@integer/google_play_services_version" />
+103-->[com.google.android.gms:play-services-basement:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/b4c3a4a2fbb45dc4d92e6b14510d5a84/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+104    </application>
+105
+106</manifest>

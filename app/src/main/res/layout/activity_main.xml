@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:background="@drawable/bg"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:textColor="#FAF7F7"
+    android:gravity="center">
+
+
+    <TextView
+        android:layout_width="267dp"
+        android:layout_height="124dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="190dp"
+        android:fontFamily="@font/corben"
+        android:text="@string/jobtain"
+        android:textAlignment="center"
+        android:textColor="#F8F5F5"
+        android:textSize="36sp"
+        app:layout_constraintVertical_bias="0.2" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="140dp"
+        android:layout_height="29dp"
+
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="@font/corben"
+        android:text="I AM A "
+        android:textAlignment="center"
+        android:textColor="#ECE3E3"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="139dp"
+        tools:layout_editor_absoluteY="388dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp">
+
+        <Button
+            android:id="@+id/studentButton"
+            android:layout_width="133dp"
+            android:layout_height="60dp"
+            android:layout_marginRight="10dp"
+            android:layout_toStartOf="@+id/companyButton"
+            android:background="@drawable/transparent_bg_bordered_button"
+            android:fontFamily="@font/corben"
+            android:text="@string/employee"
+            android:textColor="#ECE3E3" />
+
+        <Button
+            android:id="@+id/companyButton"
+            android:layout_width="133dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/transparent_bg_bordered_button"
+            android:fontFamily="@font/corben"
+            android:text="@string/employer"
+            android:textColor="#ECE3E3" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,383 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/f5cee04665f635392fbc3a078a89e818/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/85e257a6babe96d3b8085bcd76499598/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/6d16290c97378708d50718ed6ea0b1c0/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d3830890e32a69d12c53208548ef09a1/jetified-firebase-database-16.0.4/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/54caf514c6c88980c5b1cce369e8abb8/jetified-volley-1.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d7fd52ff39fcfe3aa632970464d9e385/play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/055bdea0d8d4273de83d3ffe912d6a73/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/72c718e5da82112aa96e19330b58571c/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/5ac122794c7bbf08fecd3ef606c40fb5/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/951b5e7f354daaaf8db57d3e12181016/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e9643323649ad235d2f2b3b3b69fe5e3/jetified-firebase-common-16.0.3/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/ee8d1d2e67fe5cefc11f0f771a27a22e/firebase-database-collection-16.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/75185506230655574b8334cb643643f0/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/b4c3a4a2fbb45dc4d92e6b14510d5a84/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1cbd3b0b2910c69c982ed3cdc1333c00/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/9e4e6f5711ca759ffddddb3201840211/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/55be576b1fb3cff6f9499b5d3d928b79/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/33904a9952e04540992fd4e899a6e29f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/45739e064fd8ad2faa9c3686c49a0516/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/14df4581fa9ba8ef6228f8809aa8eeaa/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d5cc3290d718e21788ec420e745c06fe/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/704f77bb835d112513bfb707984cbdc1/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/ac681daf82c56bbcb32cd485fc064a28/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/793a97fec7a6dab603ab3ae8209f13cc/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/599a956fc5880721b736c36d7a2a90a9/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/ab3a184af13a3a82dd474493bbfa3bb1/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/a6c2f02f5bfac95e56aa3f49c83ac397/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/190ec68b3797b99e27d4d5621c313ff7/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/cea9d07eed335b7021facd428f08a0ed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/241b89e013db22b59a4d22b3f2fa0913/core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0150aea6f0427790b968ac16d0f01a76/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/25fdd493a672d7b5d446aa2af8c06677/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/91482f6452f8e2279fb096c6daca6c99/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/31820fea8d5074e894dcda880d2751ad/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/a258954b59e52ea64468e7c8b611841e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/ac265cfd5669b686a3cba2f45a6e36b7/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/7fcbef39c4d63cdee011faaa088ab3cd/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/ea6b3260a9a4d94d7ea9aaa5a327bd73/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e542a78b280a084fd48769af2f842423/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/67688366c6a6c762e55784305fcbc09b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/f5e5093a6d2ffb564f346d2769a020dc/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/c92e9c6549150a4bd8eb347f54ac769d/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:5:22-66
+application
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:7:5-48:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/f5cee04665f635392fbc3a078a89e818/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/f5cee04665f635392fbc3a078a89e818/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/6d16290c97378708d50718ed6ea0b1c0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/6d16290c97378708d50718ed6ea0b1c0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.android.volley:volley:1.1.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/54caf514c6c88980c5b1cce369e8abb8/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/54caf514c6c88980c5b1cce369e8abb8/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/055bdea0d8d4273de83d3ffe912d6a73/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/055bdea0d8d4273de83d3ffe912d6a73/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/951b5e7f354daaaf8db57d3e12181016/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/951b5e7f354daaaf8db57d3e12181016/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e9643323649ad235d2f2b3b3b69fe5e3/jetified-firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e9643323649ad235d2f2b3b3b69fe5e3/jetified-firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/75185506230655574b8334cb643643f0/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/75185506230655574b8334cb643643f0/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/b4c3a4a2fbb45dc4d92e6b14510d5a84/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/b4c3a4a2fbb45dc4d92e6b14510d5a84/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/241b89e013db22b59a4d22b3f2fa0913/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/241b89e013db22b59a4d22b3f2fa0913/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0150aea6f0427790b968ac16d0f01a76/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0150aea6f0427790b968ac16d0f01a76/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/241b89e013db22b59a4d22b3f2fa0913/core-1.0.1/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:9:9-40
+	android:allowBackup
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.JobTain.JobList
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:14:9-73
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:14:19-61
+activity#com.example.JobTain.JobActivity
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:15:9-68
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:15:19-65
+activity#com.example.JobTain.AddJobPost
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:16:9-67
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:16:19-64
+activity#com.example.JobTain.CompanyRegistration
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:17:9-76
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:17:19-73
+activity#com.example.JobTain.StudentRegistrationActivity
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:18:9-84
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:18:19-81
+activity#com.example.JobTain.PersonalActivity
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:19:9-73
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:19:19-70
+activity#com.example.JobTain.SplashActivity
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:20:19-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.JobTain.Company_display_items
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:27:9-78
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:27:19-75
+activity#com.example.JobTain.Resume_preview
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:28:9-71
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:28:19-68
+activity#com.example.JobTain.Student_main_screen
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:29:9-76
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:29:19-73
+activity#com.example.JobTain.educational_info
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:30:9-73
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:30:19-70
+activity#com.example.JobTain.personal_info
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:31:9-70
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:31:19-67
+activity#com.example.JobTain.Listview
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:32:9-65
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:32:19-62
+activity#com.example.JobTain.company_content
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:33:9-35:57
+	android:windowSoftInputMode
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:35:13-54
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:34:13-63
+activity#com.example.JobTain.student_content
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:36:9-72
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:36:19-69
+activity#com.example.JobTain.company_login
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:37:9-70
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:37:19-67
+activity#com.example.JobTain.student_login
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:38:9-70
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:38:19-67
+activity#com.example.JobTain.MainActivity
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:39:9-43:20
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:39:19-66
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:40:13-42:29
+meta-data#preloaded_fonts
+ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:45:9-47:57
+	android:resource
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:47:13-54
+	android:name
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml:46:13-43
+uses-sdk
+INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/f5cee04665f635392fbc3a078a89e818/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/f5cee04665f635392fbc3a078a89e818/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/85e257a6babe96d3b8085bcd76499598/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/85e257a6babe96d3b8085bcd76499598/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/6d16290c97378708d50718ed6ea0b1c0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/6d16290c97378708d50718ed6ea0b1c0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d3830890e32a69d12c53208548ef09a1/jetified-firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d3830890e32a69d12c53208548ef09a1/jetified-firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/54caf514c6c88980c5b1cce369e8abb8/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/54caf514c6c88980c5b1cce369e8abb8/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d7fd52ff39fcfe3aa632970464d9e385/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d7fd52ff39fcfe3aa632970464d9e385/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/055bdea0d8d4273de83d3ffe912d6a73/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/055bdea0d8d4273de83d3ffe912d6a73/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/72c718e5da82112aa96e19330b58571c/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/72c718e5da82112aa96e19330b58571c/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/5ac122794c7bbf08fecd3ef606c40fb5/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/5ac122794c7bbf08fecd3ef606c40fb5/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/951b5e7f354daaaf8db57d3e12181016/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/951b5e7f354daaaf8db57d3e12181016/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e9643323649ad235d2f2b3b3b69fe5e3/jetified-firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e9643323649ad235d2f2b3b3b69fe5e3/jetified-firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/ee8d1d2e67fe5cefc11f0f771a27a22e/firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/ee8d1d2e67fe5cefc11f0f771a27a22e/firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/75185506230655574b8334cb643643f0/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/75185506230655574b8334cb643643f0/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/b4c3a4a2fbb45dc4d92e6b14510d5a84/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/b4c3a4a2fbb45dc4d92e6b14510d5a84/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1cbd3b0b2910c69c982ed3cdc1333c00/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1cbd3b0b2910c69c982ed3cdc1333c00/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/9e4e6f5711ca759ffddddb3201840211/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/9e4e6f5711ca759ffddddb3201840211/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/55be576b1fb3cff6f9499b5d3d928b79/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/55be576b1fb3cff6f9499b5d3d928b79/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/33904a9952e04540992fd4e899a6e29f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/33904a9952e04540992fd4e899a6e29f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/45739e064fd8ad2faa9c3686c49a0516/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/45739e064fd8ad2faa9c3686c49a0516/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/14df4581fa9ba8ef6228f8809aa8eeaa/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/14df4581fa9ba8ef6228f8809aa8eeaa/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d5cc3290d718e21788ec420e745c06fe/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d5cc3290d718e21788ec420e745c06fe/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/704f77bb835d112513bfb707984cbdc1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/704f77bb835d112513bfb707984cbdc1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/ac681daf82c56bbcb32cd485fc064a28/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/ac681daf82c56bbcb32cd485fc064a28/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/793a97fec7a6dab603ab3ae8209f13cc/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/793a97fec7a6dab603ab3ae8209f13cc/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/599a956fc5880721b736c36d7a2a90a9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/599a956fc5880721b736c36d7a2a90a9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/ab3a184af13a3a82dd474493bbfa3bb1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/ab3a184af13a3a82dd474493bbfa3bb1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/a6c2f02f5bfac95e56aa3f49c83ac397/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/a6c2f02f5bfac95e56aa3f49c83ac397/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/190ec68b3797b99e27d4d5621c313ff7/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/190ec68b3797b99e27d4d5621c313ff7/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/cea9d07eed335b7021facd428f08a0ed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/cea9d07eed335b7021facd428f08a0ed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/241b89e013db22b59a4d22b3f2fa0913/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/241b89e013db22b59a4d22b3f2fa0913/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0150aea6f0427790b968ac16d0f01a76/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0150aea6f0427790b968ac16d0f01a76/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/25fdd493a672d7b5d446aa2af8c06677/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/25fdd493a672d7b5d446aa2af8c06677/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/91482f6452f8e2279fb096c6daca6c99/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/91482f6452f8e2279fb096c6daca6c99/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/31820fea8d5074e894dcda880d2751ad/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/31820fea8d5074e894dcda880d2751ad/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/a258954b59e52ea64468e7c8b611841e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/a258954b59e52ea64468e7c8b611841e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/ac265cfd5669b686a3cba2f45a6e36b7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/ac265cfd5669b686a3cba2f45a6e36b7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/7fcbef39c4d63cdee011faaa088ab3cd/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/7fcbef39c4d63cdee011faaa088ab3cd/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/ea6b3260a9a4d94d7ea9aaa5a327bd73/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/ea6b3260a9a4d94d7ea9aaa5a327bd73/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e542a78b280a084fd48769af2f842423/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e542a78b280a084fd48769af2f842423/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/67688366c6a6c762e55784305fcbc09b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/67688366c6a6c762e55784305fcbc09b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/f5e5093a6d2ffb564f346d2769a020dc/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/f5e5093a6d2ffb564f346d2769a020dc/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/c92e9c6549150a4bd8eb347f54ac769d/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/c92e9c6549150a4bd8eb347f54ac769d/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ruchikpravasi/Downloads/sem 5/SGP/Project/iv/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.0.4] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d3830890e32a69d12c53208548ef09a1/jetified-firebase-database-16.0.4/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.4] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d3830890e32a69d12c53208548ef09a1/jetified-firebase-database-16.0.4/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:16.0.4] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d3830890e32a69d12c53208548ef09a1/jetified-firebase-database-16.0.4/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.4] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/d3830890e32a69d12c53208548ef09a1/jetified-firebase-database-16.0.4/AndroidManifest.xml:23:22-64
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/0e60428a2b4dea1d4c3dd7f366df15f9/jetified-firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/1ec80cdf0b9e40524eec1efb41525459/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/951b5e7f354daaaf8db57d3e12181016/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/951b5e7f354daaaf8db57d3e12181016/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/951b5e7f354daaaf8db57d3e12181016/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/951b5e7f354daaaf8db57d3e12181016/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e9643323649ad235d2f2b3b3b69fe5e3/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e9643323649ad235d2f2b3b3b69fe5e3/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e9643323649ad235d2f2b3b3b69fe5e3/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e9643323649ad235d2f2b3b3b69fe5e3/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/e9643323649ad235d2f2b3b3b69fe5e3/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/b4c3a4a2fbb45dc4d92e6b14510d5a84/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/b4c3a4a2fbb45dc4d92e6b14510d5a84/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ruchikpravasi/.gradle/caches/transforms-2/files-2.1/b4c3a4a2fbb45dc4d92e6b14510d5a84/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

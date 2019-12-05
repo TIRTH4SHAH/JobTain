@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "123255001167",
+    "firebase_url": "https://jobtain-ff4f6.firebaseio.com",
+    "project_id": "jobtain-ff4f6",
+    "storage_bucket": "jobtain-ff4f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123255001167:android:13383f9522b72d61929a3a",
+        "android_client_info": {
+          "package_name": "com.example.interviewair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123255001167-1m2fip0d5k2ff2v7gmb39a8tugnqgt76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.interviewair",
+            "certificate_hash": "7b309673d9997ebe8744c966e540415cdce35a42"
+          }
+        },
+        {
+          "client_id": "123255001167-299h0rnmgvud5j1ft09p1br4cdti5mu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAhhzwwvrxHfC8Iw90iKxYlAEqDeDL_7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123255001167-299h0rnmgvud5j1ft09p1br4cdti5mu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
